@@ -12,7 +12,7 @@ Ce petit tuto explique progressivement  comment mettre en oeuvre le prpojet fil 
 - APP_EXPOSED_PORT : **8000**
 - IMAGE_NAME : **ic-webapp**
 - IMAGE_TAG : **v1.0**
-- DOCKERHUB_ID : **choco1992**
+- DOCKERHUB_ID : **adda213**
 - DOCKERFILE_NAME : **Dockerfile_v1.0**
 
 #### Creation d'un répertoire de travail
